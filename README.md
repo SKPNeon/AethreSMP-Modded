@@ -5,3 +5,5 @@ This Modpack is intended for use on the AethreSMP Minecraft server. Includes tec
 
 ## Submitting Feedback
 Any Issues and Feedback can be sent to the [Issues](https://github.com/SKPNeon/AethreSMP-Modded/issues) Page.
+
+All issues will be posted to the [Roadmap](https://github.com/SKPNeon/AethreSMP-Modded/projects/2) where there status can be viewed as they are worked on.
