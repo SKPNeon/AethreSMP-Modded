@@ -20,3 +20,4 @@ jobs:
       if: github.event.action == 'opened'
       with:
         project: 'https://github.com/SKPNeon/AethreSMP-Modded/projects/2'
+        column_name: 'New Issues'
