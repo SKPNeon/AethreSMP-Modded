@@ -51,7 +51,7 @@
 		#----------------------------------------------------------------------------------------------------+
 		#List of biomes that should never contain dungeons.
 		#
-		"Biome Blacklist" = ""
+		"Biome Blacklist" = "terraforged:frozen_lake, terraforged:lake, biomesoplenty:coniferous_lakes, biomesoplenty:grove_lakes"
 		#----------------------------------------------------------------------------------------------------+
 		#List of biome categories the dungeons should spawn in.
 		#Entries have to be comma-separated.
@@ -102,4 +102,3 @@
 	#Whether mobs from spawners should despawn naturally or not.
 	#
 	natural_despawn = true
-
